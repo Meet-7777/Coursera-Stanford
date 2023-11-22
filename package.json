@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "binaryheap": "^0.0.3"
+  }
+}

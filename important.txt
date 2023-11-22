@@ -1,0 +1,2 @@
+We use stack for depth first search [insertion and deletion from the front]
+we use queue for breadth first search [insertion from front and deletion from back]
